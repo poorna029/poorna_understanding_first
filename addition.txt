@@ -1,4 +1,8 @@
+Q1.
+
 a=5
 b=6
 c=a+b
 print(c)
+Ans:11
+
